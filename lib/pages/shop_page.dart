@@ -45,7 +45,7 @@ class ShopPage extends StatelessWidget {
             Padding(
               padding: const EdgeInsets.all(25.0),
               child: Text(
-                'Meet the latest collection of retro running inspired shoes.The unlikely heroes of your easiest styling hack.',
+                'Meet the latest collection of retro running inspired shoes...',
                 style: TextStyle(color: Colors.grey[600]),
               ),
             ),
